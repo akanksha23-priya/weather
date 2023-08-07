@@ -1,0 +1,10 @@
+.custom{
+    background-image: url("weather2.jpg");
+    min-height: 100vh;    
+    background-size: 100vw 100vh ;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+
+
+}
